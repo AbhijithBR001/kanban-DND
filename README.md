@@ -1,8 +1,3 @@
-Sure! Here's your README.md file properly formatted for GitHub, using Markdown syntax with appropriate headings, code blocks, and links:
-
----
-
-```markdown
 # 🧩 Task Management Dashboard
 
 A **Kanban-style task management dashboard** built with Next.js and React DnD.
@@ -124,12 +119,3 @@ This dashboard implements all core features with:
 | TypeScript     | 7/10   |
 | Tailwind CSS   | 8/10   |
 | React DnD      | 7/10   |
-
----
-
-Made with 💻 by [Your Name](https://github.com/yourusername)
-```
-
----
-
-You can save this as a `README.md` file and push it to your GitHub repo. Let me know if you want me to customize any part (like the GitHub username or author section).
